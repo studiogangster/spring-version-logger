@@ -9,7 +9,7 @@ This Bash script enables the identification of Spring Boot JAR and WAR files wit
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/studiogangster/spring-version-logger.git
-    cd spring-version-checker
+    cd spring-version-logger
     ```
 
 2. **Customize the Script:**
